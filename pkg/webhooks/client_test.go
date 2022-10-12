@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dmytro-cyberhaven/workos-go/pkg/webhooks"
+	"github.com/workos/workos-go/pkg/webhooks"
 )
 
 func TestWebhookWithValidHeader(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/dmytro-cyberhaven/workos-go
+module github.com/workos/workos-go
 
 go 1.13
 
